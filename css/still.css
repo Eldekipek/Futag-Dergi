@@ -1,5 +1,6 @@
 .resimSlider{
     height:600px;
+    object-fit: contain;
 }
 body{
     padding-top:50px;
